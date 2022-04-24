@@ -1,6 +1,6 @@
-header {
-    background-color: rgb(49, 49, 49);
-    color: white;
+.top {
+    background-color: #1E5128;
+    color: #D8E9A8;
     text-align: center;
 }
 
@@ -9,7 +9,7 @@ body {
     margin: 0;
 }
 
-main {
+.secondTop {
     background-color: 	#D3D3D3;
     padding: 1em;
 }
