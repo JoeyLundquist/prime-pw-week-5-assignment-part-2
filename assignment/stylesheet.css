@@ -13,3 +13,11 @@ body {
     background-color: 	#D3D3D3;
     padding: 1em;
 }
+
+.list {
+    background-color: #191A19;
+    color: #D8E9A8;
+    border:0.5em #1E5128 dotted;
+    width: 15rem;
+    font-size: 1.75rem;
+}
